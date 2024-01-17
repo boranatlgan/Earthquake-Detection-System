@@ -1,4 +1,4 @@
-//NOTE: Please add melodiesandpins.h library inside the folder.Otherwise, software errors may occur.In case the error occurs,try to read README files accordingly.
+//NOTE: Please add melodiesandpins.h library inside the folder.Otherwise, software errors may occur.In case of error occurrence,try to read README files accordingly.
 
 #include <SoftwareSerial.h>
 #include <math.h>
