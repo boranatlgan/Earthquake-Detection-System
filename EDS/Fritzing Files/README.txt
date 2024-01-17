@@ -1,0 +1,1 @@
+In order to open the file named 'EDS-EarthquakeDetectionSystem' you need the program called 'Fritzing'.

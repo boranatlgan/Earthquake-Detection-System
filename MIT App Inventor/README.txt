@@ -1,0 +1,1 @@
+Images which are related to 'Earthquake Detection System' application scripts, can be found inside the 'Scripts' folder.
